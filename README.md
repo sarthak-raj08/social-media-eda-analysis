@@ -114,9 +114,7 @@ The dataset includes:
 
 Add your screenshots here:
 
-![Dashboard](dashboard.png)
-![Analysis](analysis.png)
-![Graphs](graphs.png)
+![Dashboard](EDA_Analysi.png)
 
 ---
 
